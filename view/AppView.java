@@ -17,7 +17,7 @@ public class AppView extends Application {
             Pane pane = FXMLLoader.load(url);
             Scene scene = new Scene(pane);
             primaryStage.setScene(scene);
-            primaryStage.setTitle("--------");
+            primaryStage.setTitle("---------");
             primaryStage.show();
         } catch (Exception e) {
             e.printStackTrace();

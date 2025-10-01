@@ -16,7 +16,7 @@ public class AppController implements Initializable {
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         try {
-            // Carrega o conteúdo de cada aba
+            
          
 
         } catch (Exception e) {
